@@ -33,10 +33,9 @@
 <ol>  3) 미루는 습관고치기</ol>
 <ol>  4) 시험잘보기(단기간)</ol>
 <ol>  5) 영상편집 숙달되기(단기간)</ol>
-  </oi>
+  
 <ol> 너에 대한 한줄평: 귀엽네..?</ol>
   </p>
 </body>
-<style>
-body{background-color: lightyellow}
+
 </html>
